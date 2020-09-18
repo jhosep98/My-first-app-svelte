@@ -15,7 +15,7 @@ My first application using svelte customizing a component and adding the onclick
 
 ## Screenshots
 
-![Svelte screenshot](./public/svelte-app-png)
+![Svelte screenshot](./public/svelte-app.png)
 
 ## Technologies
 
